@@ -1,0 +1,26 @@
+{
+  "name": "updater-for-nw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "update",
+    "nw",
+    "updater",
+    "autoupdate"
+  ],
+  "homepage": "https://github.com/zsj975516/updater-for-nw",
+  "bugs": {
+    "url": "https://github.com/zsj975516/updater-for-nw/issues"
+  },
+  "author": "来日可期(1084172570@qq.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4"
+  }
+}
